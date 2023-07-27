@@ -12,4 +12,5 @@ Some of the questions I aim to answer for earthquakes that have occurred in 30 d
 - What was the mean magnitude of seismic activities?
 - What was the Rate of Human-Reviewed Earthquakes?
 
+This data set, which includes earthquakes that occurred on April 17 and May 17 2023, was taken from USGS (U.S. Geological Survey).  
 Find out more about this dataset here: https://www.kaggle.com/datasets/farazrahman/earthquake?taskId=6195
