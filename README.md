@@ -1,6 +1,6 @@
 In this study, **Matplotlib, Pandas, Numpy** and **Datetime** libraries were used and **Exploratory Data Analysis (EDA)** was performed on earthquake data.
 
-Some of the questions I aim to answer for earthquakes that have occurred in the last 30 days:
+Some of the questions I aim to answer for earthquakes that have occurred in 30 days:
 - What was the magnitude range in which earthquakes occurred?
 - What was the number of countries with seismic events worldwide?
 - Where did earthquakes occur most frequently?
