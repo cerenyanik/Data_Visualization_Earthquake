@@ -5,7 +5,7 @@ Some of the questions I aim to answer for earthquakes that have occurred in 30 d
 - What was the number of countries with seismic events worldwide?
 - Where did earthquakes occur most frequently?
 - Where was the locations where the earthquake magnitude is 6 or higher?
-- Where were the earthquake points concentrated?
+- Where were the earthquake points concentrated? 
 - What was the relationship between the depth and magnitude of earthqakes?
 - What was the magnitute distribution of the earthquakes?
 - What was the distribution of seismic event types?
