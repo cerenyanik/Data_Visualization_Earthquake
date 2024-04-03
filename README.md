@@ -8,7 +8,7 @@ Some of the questions I aim to answer for earthquakes that have occurred in 30 d
 - Where were the earthquake points concentrated? 
 - What was the relationship between the depth and magnitude of earthqakes?
 - What was the magnitute distribution of the earthquakes?
-- What was the distribution of seismic event types?
+- What was the distribution of seismic event types? 
 - What was the mean magnitude of seismic activities?
 - What was the Rate of Human-Reviewed Earthquakes?
 
